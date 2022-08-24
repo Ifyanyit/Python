@@ -14,7 +14,9 @@ This is a repo to learn Python from BroCode YouTube channel
 3. Number 3
 
 **Bold text**
+
 *Italicized text*
+
 > blockquote
 
 `A code`
@@ -22,4 +24,4 @@ This is a repo to learn Python from BroCode YouTube channel
 ------ ---------------------
 
 [link Test-Mackdown Cheat-sheet](https://www.markdownguide.org/cheat-sheet/)
-![Image](BroCode Python Tutorial.jpg)
+![alt text](https://github.com/Ifyanyit/Python/blob/master/BroCode%20Python%20Tutorial%201.PNG "Example of an image")
